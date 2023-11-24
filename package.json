@@ -1,6 +1,5 @@
 {
   "name": "react-loading-randomizable",
-  "private": true,
   "version": "0.1.0",
   "type": "module",
   "author": "buildingwatsize (Chinnawat Chimdee)",
@@ -19,6 +18,7 @@
     "build": "tsc --p ./tsconfig.build.json && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
+    "publish": "yarn build && npm publish",
     "example-initial": "yarn install && yarn run build",
     "example-build": "cd ./example && yarn install && yarn run build",
     "example-preview": "cd ./example && yarn preview"
