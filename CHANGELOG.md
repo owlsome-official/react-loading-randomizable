@@ -2,6 +2,10 @@
 
 ## Version
 
+### [v1.0.1] - `2024-04-18`
+
+- Updated dependencies
+
 ### [v1.0.0] - `2023-11-24`
 
 - Added Demo link on README and Release 1st version
@@ -14,6 +18,7 @@
 
 - Initialized Project
 
+[v1.0.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.1
 [v1.0.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.0
 [v0.1.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v0.1.1
 [v0.1.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v0.1.0
