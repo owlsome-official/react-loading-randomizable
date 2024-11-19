@@ -21,7 +21,11 @@ const App = () => {
       >
         <div className="logo-container">
           <img src={GithubMarkLogo} alt="buildingwatsize" height={48} />
-          <p>buildingwatsize</p>
+          <div>
+            <span style={{ fontWeight: "bold" }}>owlsome-official</span>
+            <br />
+            <span style={{ color: "#aaa" }}>powered by buildingwatsize</span>
+          </div>
         </div>
       </a>
 
