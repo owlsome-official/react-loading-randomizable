@@ -2,6 +2,11 @@
 
 ## Version
 
+### [v1.1.0] - `2025-02-13`
+
+- Updated dependencies
+- Updated React 19
+
 ### [v1.0.6] - `2024-11-19`
 
 - Fixed known vulnerabilities
@@ -41,6 +46,7 @@
 
 - Initialized Project
 
+[v1.1.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.0
 [v1.0.6]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.6
 [v1.0.5]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.5
 [v1.0.4]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.4
