@@ -2,6 +2,10 @@
 
 ## Version
 
+### [v1.1.1] - `2025-02-13`
+
+- Fixed broken version on npm `v1.1.0`
+
 ### [v1.1.0] - `2025-02-13`
 
 - Updated dependencies
@@ -46,6 +50,7 @@
 
 - Initialized Project
 
+[v1.1.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.1
 [v1.1.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.0
 [v1.0.6]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.6
 [v1.0.5]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.5
