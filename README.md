@@ -60,7 +60,7 @@ export default App;
 
 ## 📝 Need More Example?
 
-- Document with Online Demo: [Demo](https://react-loading-randomizable-demo.vercel.app/)
+- Document with Online Demo: [Demo](https://react-loading-randomizable.onrender.com/)
 - or alternate example link: [CodeSandbox](https://codesandbox.io/p/sandbox/example-of-react-loading-randomizable-dlttfs)
 
 ## 🙋 FAQ?
