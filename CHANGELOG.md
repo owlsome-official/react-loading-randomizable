@@ -2,6 +2,11 @@
 
 ## Version
 
+### [v1.1.2] - `2025-02-17`
+
+- Bump version to 1.1.2
+- Fixed TypeScript configuration for ES2022 support
+
 ### [v1.1.1] - `2025-02-13`
 
 - Fixed broken version on npm `v1.1.0`
@@ -50,6 +55,7 @@
 
 - Initialized Project
 
+[v1.1.2]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.2
 [v1.1.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.1
 [v1.1.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.0
 [v1.0.6]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.0.6
