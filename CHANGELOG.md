@@ -2,7 +2,7 @@
 
 ## Version
 
-### [v1.1.2] - `2025-02-17`
+### [v1.1.2] - `2025-08-08`
 
 - Bump version to 1.1.2
 - Fixed TypeScript configuration for ES2022 support
