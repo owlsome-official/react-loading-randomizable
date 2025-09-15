@@ -2,6 +2,10 @@
 
 ## Version
 
+### [v1.1.3] - `2025-09-15`
+
+- Updated dependencies
+
 ### [v1.1.2] - `2025-08-08`
 
 - Bump version to 1.1.2
@@ -55,6 +59,7 @@
 
 - Initialized Project
 
+[v1.1.3]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.3
 [v1.1.2]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.2
 [v1.1.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.1
 [v1.1.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.0
